@@ -144,11 +144,11 @@ public class PerizinanFragment extends Fragment {
             }
 
         });
-        mWebView.loadUrl("http://trayek.dawoodtravel.co.id/mobile/trayek_saya/?idUser=" + sharedpreferences.getString(AppVar.USER_ID,null));
+        mWebView.loadUrl("http://trayek.dishub-pekanbaru.com/mobile/trayek_saya/?idUser=" + sharedpreferences.getString(AppVar.USER_ID,null));
         btnRefresh.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mWebView.loadUrl("http://trayek.dawoodtravel.co.id/mobile/trayek_saya/?idUser=" + sharedpreferences.getString(AppVar.USER_ID,null));
+                mWebView.loadUrl("http://trayek.dishub-pekanbaru.com/mobile/trayek_saya/?idUser=" + sharedpreferences.getString(AppVar.USER_ID,null));
             }
         });
         return view;

@@ -1,7 +1,7 @@
 package net.netne.afahzis.appmobil.server;
 
 /**
- * Created by anonymous on 10/11/17.
+ * reshape by Iwan 16/01/18.
  */
 
 public class AppVar {

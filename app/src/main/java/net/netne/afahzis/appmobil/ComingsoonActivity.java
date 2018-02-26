@@ -13,6 +13,7 @@ import net.netne.afahzis.appmobil.server.AppVar;
 
 /**
  * Created by iwan on 12/17/17.
+ * reshape on 16/01/18.
  */
 
 public class ComingsoonActivity extends AppCompatActivity {

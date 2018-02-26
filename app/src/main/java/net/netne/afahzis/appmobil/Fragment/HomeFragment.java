@@ -46,6 +46,7 @@ import java.util.List;
 
 /**
  * A simple {@link Fragment} subclass.
+ * reshape by Iwan 16/01/18.
  */
 public class HomeFragment extends Fragment {
 

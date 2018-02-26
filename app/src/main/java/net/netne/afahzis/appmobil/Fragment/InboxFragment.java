@@ -36,6 +36,7 @@ import java.util.List;
 
 /**
  * A simple {@link Fragment} subclass.
+ * reshape by iwan 16/01/18
  */
 public class InboxFragment extends Fragment {
 

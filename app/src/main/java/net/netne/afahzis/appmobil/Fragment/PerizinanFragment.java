@@ -27,6 +27,7 @@ import net.netne.afahzis.appmobil.server.AppVar;
 
 /**
  * A simple {@link Fragment} subclass.
+ * reshape by Iwan 16/01/18.
  */
 public class PerizinanFragment extends Fragment {
 
